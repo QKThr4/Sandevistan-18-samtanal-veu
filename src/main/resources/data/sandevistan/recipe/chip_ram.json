@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {"item": "sandevistan:chipware"},
+    {"item": "minecraft:redstone_block"},
+    {"item": "minecraft:diamond"},
+    {"item": "sandevistan:fibra_sinaptica"},
+    {"item": "sandevistan:bateria_energia"}
+  ],
+  "result": {"id": "sandevistan:chip_ram", "count": 1}
+}

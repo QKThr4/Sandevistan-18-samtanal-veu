@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DSD",
+    "TXT",
+    "DBD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    },
+    "T": {
+      "item": "minecraft:iron_block"
+    },
+    "X": {
+      "item": "sandevistan:braco_ferro"
+    }
+  },
+  "result": {
+    "id": "sandevistan:braco_ferro_2",
+    "count": 1
+  }
+}

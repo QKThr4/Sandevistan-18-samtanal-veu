@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCG",
+    "TXT",
+    "MNG"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:diamond_block"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "C": {
+      "item": "sandevistan:cristal_neural"
+    },
+    "N": {
+      "item": "sandevistan:nucleo"
+    },
+    "T": {
+      "item": "sandevistan:fibra_sinaptica"
+    },
+    "X": {
+      "item": "sandevistan:sistema_nervoso_2"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sistema_nervoso_3",
+    "count": 1
+  }
+}

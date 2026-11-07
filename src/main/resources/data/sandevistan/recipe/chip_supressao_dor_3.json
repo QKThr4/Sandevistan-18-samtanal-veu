@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "M M",
+    "CXC",
+    "R R"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:diamond_block"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "C": {
+      "item": "sandevistan:cristal_neural"
+    },
+    "X": {
+      "item": "sandevistan:chip_supressao_dor_2"
+    }
+  },
+  "result": {
+    "id": "sandevistan:chip_supressao_dor_3",
+    "count": 1
+  }
+}

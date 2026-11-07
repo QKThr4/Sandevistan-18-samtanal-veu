@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DSD",
+    "TXT",
+    "DBD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    },
+    "T": {
+      "item": "minecraft:piston"
+    },
+    "X": {
+      "item": "sandevistan:pernas_ciberneticas"
+    }
+  },
+  "result": {
+    "id": "sandevistan:pernas_ciberneticas_2",
+    "count": 1
+  }
+}

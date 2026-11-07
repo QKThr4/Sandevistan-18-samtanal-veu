@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DSD",
+    "TXT",
+    "DBD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    },
+    "T": {
+      "item": "minecraft:golden_apple"
+    },
+    "X": {
+      "item": "sandevistan:coracao_ferro"
+    }
+  },
+  "result": {
+    "id": "sandevistan:coracao_ferro_2",
+    "count": 1
+  }
+}

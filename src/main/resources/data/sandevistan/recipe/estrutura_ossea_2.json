@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DSD",
+    "TXT",
+    "DBD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    },
+    "T": {
+      "item": "minecraft:bone_block"
+    },
+    "X": {
+      "item": "sandevistan:estrutura_ossea"
+    }
+  },
+  "result": {
+    "id": "sandevistan:estrutura_ossea_2",
+    "count": 1
+  }
+}
